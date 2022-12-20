@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1+fL/iazzVPJDPCDPbrRERj5E2bGfJqrne21d5X5Fe+8YuOcfAEcPk4ngXnw3cB8XX5m1QCosGty0dRTgGDFMA==",
+  "success": true,
+  "projectFilePath": "/home/scurvyy/dev/dotnet/TextEditor/TextEditor.csproj",
+  "expectedPackageFiles": [
+    "/home/scurvyy/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

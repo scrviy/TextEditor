@@ -1,0 +1,15 @@
+/home/scurvyy/dev/dotnet/TextEditor/bin/Debug/net7.0/TextEditor
+/home/scurvyy/dev/dotnet/TextEditor/bin/Debug/net7.0/TextEditor.deps.json
+/home/scurvyy/dev/dotnet/TextEditor/bin/Debug/net7.0/TextEditor.runtimeconfig.json
+/home/scurvyy/dev/dotnet/TextEditor/bin/Debug/net7.0/TextEditor.dll
+/home/scurvyy/dev/dotnet/TextEditor/bin/Debug/net7.0/TextEditor.pdb
+/home/scurvyy/dev/dotnet/TextEditor/obj/Debug/net7.0/TextEditor.csproj.AssemblyReference.cache
+/home/scurvyy/dev/dotnet/TextEditor/obj/Debug/net7.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/scurvyy/dev/dotnet/TextEditor/obj/Debug/net7.0/TextEditor.AssemblyInfoInputs.cache
+/home/scurvyy/dev/dotnet/TextEditor/obj/Debug/net7.0/TextEditor.AssemblyInfo.cs
+/home/scurvyy/dev/dotnet/TextEditor/obj/Debug/net7.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/scurvyy/dev/dotnet/TextEditor/obj/Debug/net7.0/TextEditor.dll
+/home/scurvyy/dev/dotnet/TextEditor/obj/Debug/net7.0/refint/TextEditor.dll
+/home/scurvyy/dev/dotnet/TextEditor/obj/Debug/net7.0/TextEditor.pdb
+/home/scurvyy/dev/dotnet/TextEditor/obj/Debug/net7.0/TextEditor.genruntimeconfig.cache
+/home/scurvyy/dev/dotnet/TextEditor/obj/Debug/net7.0/ref/TextEditor.dll
